@@ -1,5 +1,3 @@
-
-````markdown
 # 💼 Softblend Task Management API
 
 > **Elegant. Secure. Scalable.**  
@@ -88,8 +86,6 @@ task_management_api/
 ✅ **Error Handling**
 
 * Clear JSON errors with proper status codes (400/401/404/409)
-
----
 
 ## 📦 Setup Guide
 
