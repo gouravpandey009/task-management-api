@@ -1,0 +1,47 @@
+# Virtual environment
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# VS Code settings
+.vscode/
+
+# Byte-compiled / cache
+*.py[cod]
+*$py.class
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Pytest cache
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Logs and local files
+*.log
+*.db
+.DS_Store
+
+# Docker
+*.pid
+*.seed
+*.bak
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# Test & coverage
+.coverage
+htmlcov/
+
+# System
+Thumbs.db
