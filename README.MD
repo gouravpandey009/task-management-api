@@ -1,6 +1,4 @@
 
----
-
 ````markdown
 # 💼 Softblend Task Management API
 
@@ -62,8 +60,6 @@ task_management_api/
 ├── .env                         # Local secrets
 └── README.md
 ````
-
----
 
 ## 🚀 Features Overview
 
